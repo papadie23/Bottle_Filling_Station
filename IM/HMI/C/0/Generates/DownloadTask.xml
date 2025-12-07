@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="17.0.0.0"
+    CreationTime="2025-12-04 09:24:48 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="LABSDAMC.HMI[TP900 Comfort]"
+    RtProjectFolderName="LABSDAMC.HMI[TP900 Comfort]"
+    DeviceType="TP900 Comfort"
+    DisplayOrientation="0"
+    RTReleaseNo="17.0.0.0"
+    ImageReleaseNo="17.0.0.0"
+    RTCV="17.0.0.0"
+    PRCV="17.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="CP_7_9" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.recipe.zip</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>
