@@ -68,8 +68,3 @@ Built in WinCC as part of the TIA Portal project.
 
 If you're running it without physical hardware, use PLCSIM to simulate the PLC locally.
 
----
-
-Made by **Cosmin Vleju** — Automation & CS, TUIAȘI
-
-[github.com/papadie23](https://github.com/papadie23) · cosmineugen23@gmail.com
