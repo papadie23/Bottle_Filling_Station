@@ -4,7 +4,8 @@ A university automation project built around a simulated industrial bottling lin
 
 ---
 
-## What is this?
+<img width="1234" height="1016" alt="image" src="https://github.com/user-attachments/assets/6500c809-19cf-4760-8246-bc3011a6f7c0" />
+
 
 This is a practical lab project from my 4th year at the Faculty of Automation and Computer Science, TUIAȘI. The goal was to program a complete sequential control system for a bottle filling station using **Siemens TIA Portal**, and then build a **SCADA interface** to visualize and control the process in real time.
 
